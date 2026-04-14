@@ -1,0 +1,7 @@
+body{margin:0;font-family:Inter,Arial;background:#eef3f8;}
+.app-shell{display:grid;grid-template-columns:280px 1fr;}
+.sidebar{background:#0f172a;color:#fff;padding:20px;}
+.content{padding:20px;}
+.panel{background:#fff;border-radius:16px;padding:20px;margin-bottom:20px;}
+.primary-btn{background:#c99a2f;color:#fff;border:none;padding:12px;border-radius:12px;}
+.launch-card{border:1px solid #ddd;padding:15px;border-radius:12px;}
