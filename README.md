@@ -1,1 +1,0 @@
-# Óticas Fácil\n\nVersão com código do cliente gerado pelo banco.\n
