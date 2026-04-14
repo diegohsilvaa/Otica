@@ -1,1 +1,0 @@
-# Óticas Fácil\n\n- tela de boas-vindas\n- livro caixa\n- clientes com endereço\n- clientes-schema.sql\n- realtime.sql\n
