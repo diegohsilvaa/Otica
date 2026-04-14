@@ -1,1 +1,0 @@
-# Óticas Fácil\n\nVersão com animação tipo app entre abas.\n
